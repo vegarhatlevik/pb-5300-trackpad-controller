@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "1_trackpad")(type "KiCad")(uri "${KIPRJMOD}/1_trackpad.kicad_sym")(options "")(descr ""))
+)
