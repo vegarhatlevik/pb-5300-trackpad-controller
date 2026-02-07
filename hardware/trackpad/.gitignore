@@ -17,6 +17,7 @@ _autosave-*
 fp-info-cache
 .DS_Store
 *.lck
+*-backups
 
 # Netlist files (exported from Eeschema)
 *.net
